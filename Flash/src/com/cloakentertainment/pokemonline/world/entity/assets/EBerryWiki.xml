@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:df9004b1125497ce9fac349e03100d52:9f6cc0bce19d67716d3fa8c2a184046a:43408167c10747d7c4982e5a8402945a$ -->
+<TextureAtlas imagePath="EBerryWiki.png">
+    <SubTexture name="wiki-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="wiki-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="wiki-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="wiki-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="wiki-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

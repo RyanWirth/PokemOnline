@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c5d53ec250745f37123674350a706a13:f88c65c12b898e777c5b5d49949eab7d:4e3c9848691443fb5feb886d515a00da$ -->
+<TextureAtlas imagePath="EBerryRawst.png">
+    <SubTexture name="rawst-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="rawst-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="rawst-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="rawst-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="rawst-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e052f84f7cabfde688ebe31e1e6aaac3:749c970b79485ab8b4cda2efa543b232:775b35b25e9747816e0788d9f2c01d8f$ -->
+<TextureAtlas imagePath="TRockBottomRight.png">
+    <SubTexture name="tile01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile02" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="tile03" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="tile04" x="2" y="20" width="16" height="16"/>
+    <SubTexture name="tile05" x="20" y="20" width="16" height="16"/>
+    <SubTexture name="tile06" x="38" y="20" width="16" height="16"/>
+    <SubTexture name="tile07" x="2" y="38" width="16" height="16"/>
+    <SubTexture name="tile08" x="20" y="38" width="16" height="16"/>
+</TextureAtlas>

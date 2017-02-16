@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:09a2c7839d5d573a0163202936917be3:90617e1499893248c0ece2f5ac6ab217:1f490dd0313bcd1b09317727f8eb4330$ -->
+<TextureAtlas imagePath="ENotebook.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="walk_left01" x="20" y="2" width="16" height="16"/>
+</TextureAtlas>

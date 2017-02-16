@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1173aba9db32f69fde7224a27b8a38ab:778ba1e61cf74faee55151dea050b48d:cb91138d6a26950c48857cf69b5f9499$ -->
+<TextureAtlas imagePath="EMagmaAdminFemale.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="16" height="20"/>
+    <SubTexture name="walk_down02" x="38" y="2" width="14" height="20"/>
+    <SubTexture name="walk_down03" x="2" y="2" width="16" height="20"/>
+    <SubTexture name="walk_down04" x="54" y="2" width="14" height="20"/>
+    <SubTexture name="walk_left01" x="102" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left02" x="117" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left03" x="102" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left04" x="132" y="2" width="13" height="20"/>
+    <SubTexture name="walk_up01" x="20" y="2" width="16" height="20"/>
+    <SubTexture name="walk_up02" x="70" y="2" width="14" height="20"/>
+    <SubTexture name="walk_up03" x="20" y="2" width="16" height="20"/>
+    <SubTexture name="walk_up04" x="86" y="2" width="14" height="20"/>
+</TextureAtlas>

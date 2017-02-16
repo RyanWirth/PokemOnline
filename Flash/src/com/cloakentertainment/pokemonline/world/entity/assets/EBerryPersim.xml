@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a8871da66c548a0c99b224c431cc3b4e:b06303faec3b21c4a945ece181f152b8:114baa26373abdcbbe63f730e7b0a7fc$ -->
+<TextureAtlas imagePath="EBerryPersim.png">
+    <SubTexture name="persim-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="persim-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="persim-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="persim-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="persim-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:628193369c33f712aa78af36d785b376:f675d69b48c35a3fb97ee87ef204e327:062e4f2ba43bed945f207fa31d34c38c$ -->
+<TextureAtlas imagePath="EBerryIapapa.png">
+    <SubTexture name="iapapa-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="iapapa-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="iapapa-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="iapapa-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="iapapa-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

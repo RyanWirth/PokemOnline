@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1b7df8590cefa69338737bc3ed3b0b7d:954481380689e252ad5bc90417c379de:5776389f9ffc413b5e3ba60f3e3d3b01$ -->
+<TextureAtlas imagePath="SDropShadow.png">
+    <SubTexture name="tile1" x="2" y="2" width="16" height="5"/>
+    <SubTexture name="tile2" x="20" y="2" width="10" height="5" frameX="-3" frameY="0" frameWidth="16" frameHeight="5"/>
+    <SubTexture name="tile3" x="20" y="2" width="10" height="5" frameX="-3" frameY="0" frameWidth="16" frameHeight="5"/>
+    <SubTexture name="tile4" x="2" y="9" width="14" height="4" frameX="-1" frameY="-1" frameWidth="16" frameHeight="5"/>
+</TextureAtlas>

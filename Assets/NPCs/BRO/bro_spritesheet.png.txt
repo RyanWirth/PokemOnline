@@ -1,0 +1,1 @@
+walk_down01.png 0 1, walk_down04.png 0 15, walk_up01.png 18 1, walk_up04.png 18 15, walk_left01.png 36 1, walk_down02.png 55 1, walk_up02.png 74 1, walk_left02.png 91 0, walk_left04.png 108 1.

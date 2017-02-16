@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3b4c242a209c4dbd16c36103df52c64f:3a0222b2f29ed2eae601df617bb70cfc:c5eaeffa689ed445b9f917f5e66f1f3f$ -->
+<TextureAtlas imagePath="EArenaTycoonFemale.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="14" height="19"/>
+    <SubTexture name="walk_down02" x="18" y="2" width="14" height="19"/>
+    <SubTexture name="walk_down03" x="2" y="2" width="14" height="19"/>
+    <SubTexture name="walk_down04" x="34" y="2" width="14" height="19"/>
+    <SubTexture name="walk_left01" x="98" y="2" width="13" height="19"/>
+    <SubTexture name="walk_left02" x="113" y="2" width="13" height="19"/>
+    <SubTexture name="walk_left03" x="98" y="2" width="13" height="19"/>
+    <SubTexture name="walk_left04" x="128" y="2" width="13" height="19"/>
+    <SubTexture name="walk_up01" x="50" y="2" width="14" height="19"/>
+    <SubTexture name="walk_up02" x="66" y="2" width="14" height="19"/>
+    <SubTexture name="walk_up03" x="50" y="2" width="14" height="19"/>
+    <SubTexture name="walk_up04" x="82" y="2" width="14" height="19"/>
+</TextureAtlas>

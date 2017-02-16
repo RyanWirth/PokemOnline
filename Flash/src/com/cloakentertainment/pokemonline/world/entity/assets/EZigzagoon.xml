@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6ed3a40abaeb0e771eca92ca21b02476:415da1018d33a757d3833f74e0c752e5:906ba50fb055582b0f4ceb6782d3aecf$ -->
+<TextureAtlas imagePath="EZigzagoon.png">
+    <SubTexture name="walk_down01" x="2" y="1" width="14" height="18"/>
+    <SubTexture name="walk_down02" x="18" y="2" width="14" height="18"/>
+    <SubTexture name="walk_down03" x="2" y="1" width="14" height="18"/>
+    <SubTexture name="walk_down04" x="18" y="2" width="14" height="18"/>
+    <SubTexture name="walk_left01" x="34" y="1" width="24" height="18"/>
+    <SubTexture name="walk_left02" x="60" y="2" width="24" height="18"/>
+    <SubTexture name="walk_left03" x="34" y="1" width="24" height="18"/>
+    <SubTexture name="walk_left04" x="60" y="2" width="24" height="18"/>
+    <SubTexture name="walk_up01" x="86" y="1" width="14" height="17"/>
+    <SubTexture name="walk_up03" x="86" y="1" width="14" height="17"/>
+    <SubTexture name="walk_up02" x="102" y="2" width="14" height="17"/>
+    <SubTexture name="walk_up04" x="102" y="2" width="14" height="17"/>
+</TextureAtlas>

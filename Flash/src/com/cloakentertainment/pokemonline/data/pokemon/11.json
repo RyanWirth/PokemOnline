@@ -1,0 +1,45 @@
+{
+"pokemon":{
+        "ID":11,
+        "Name":"Metapod",
+        "Type":["Bug"],
+        "CatchRate":120,
+        "GenderRatio":50,
+		"Abilities":["Shed Skin"],
+        "EggGroups":["Bug"],
+        "HatchTime":[2805,3059],
+        "Height":["2'04\"", "0.7 m"],
+        "Weight":["21.8 lbs", "9.9 kg"],
+        "RegionalPokedexNumbers":[213],
+        "BaseExperienceYield":72,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Cocoon Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":2,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":2,
+        "FootprintStyle":11,
+        "PokedexColor":"Green",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":10, "into":"Butterfree"}],
+        "PokedexEntry":"Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":50,
+            "ATK":20,
+            "DEF":55,
+            "SPATK":25,
+            "SPDEF":25,
+            "SPEED":30
+        },
+		"LearnSet":[
+			{"level":0, "move":"Harden"},
+			{"level":7, "move":"Harden"}
+		]
+}
+}

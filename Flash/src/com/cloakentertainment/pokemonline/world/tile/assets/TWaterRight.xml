@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4395b42202ada303fa50985a96b96320:67efe411b6fd7951d7b9029015e8ab91:340704b59ed8b360451d79630fa8f5f6$ -->
+<TextureAtlas imagePath="TWaterRight.png">
+    <SubTexture name="tile01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile02" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="tile03" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="tile04" x="56" y="2" width="16" height="16"/>
+    <SubTexture name="tile05" x="74" y="2" width="16" height="16"/>
+    <SubTexture name="tile06" x="92" y="2" width="16" height="16"/>
+    <SubTexture name="tile07" x="110" y="2" width="16" height="16"/>
+    <SubTexture name="tile08" x="128" y="2" width="16" height="16"/>
+</TextureAtlas>

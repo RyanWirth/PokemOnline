@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:66bbe66a56b0897db2ffc206359ce0e2:9da27508dea7298f9fd4c1f0c472a64e:da479979fb0f9f121e7c1e97b94bcec1$ -->
+<TextureAtlas imagePath="EBag.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="16" height="16"/>
+</TextureAtlas>

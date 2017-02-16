@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b45479bf83c37f7d1017bb44b10fff5d:6415202152873f83d120794aab720660:c62656df3f258e17e53dddb4685f2a41$ -->
+<TextureAtlas imagePath="ESalonMavenFemale.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="14" height="19"/>
+    <SubTexture name="walk_down02" x="2" y="23" width="14" height="19"/>
+    <SubTexture name="walk_down03" x="2" y="2" width="14" height="19"/>
+    <SubTexture name="walk_down04" x="2" y="44" width="14" height="19"/>
+    <SubTexture name="walk_left01" x="18" y="2" width="12" height="19"/>
+    <SubTexture name="walk_left02" x="18" y="23" width="12" height="19"/>
+    <SubTexture name="walk_left03" x="18" y="2" width="12" height="19"/>
+    <SubTexture name="walk_left04" x="18" y="44" width="12" height="19"/>
+    <SubTexture name="walk_up01" x="2" y="65" width="14" height="19"/>
+    <SubTexture name="walk_up02" x="2" y="86" width="14" height="19"/>
+    <SubTexture name="walk_up03" x="2" y="65" width="14" height="19"/>
+    <SubTexture name="walk_up04" x="2" y="107" width="14" height="19"/>
+</TextureAtlas>

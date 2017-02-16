@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4f7086ca6f5401d778606b48b0cf784e:6a64910e9eef721971a0773e1651e2f7:c372ff089ee522658ef5fda98960f30c$ -->
+<TextureAtlas imagePath="EBerryQualot.png">
+    <SubTexture name="qualot-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="qualot-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="qualot-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="qualot-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="qualot-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:dd6886edbe8a3e2fffd289b58b625b9d:ec759eb77fe9eb14eaa57f3a5c4f0df0:4df52298ecc1a9c78cad0e0a5c9d64c6$ -->
+<TextureAtlas imagePath="TPokemonCenterPC.png">
+    <SubTexture name="tile01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile02" x="20" y="2" width="16" height="16"/>
+</TextureAtlas>

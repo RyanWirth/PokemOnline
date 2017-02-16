@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1bbbace3d2ccbcd1e74148d61006f289:66adbc1ab8cbb1bf0ad556227d638e3e:c36dbf58c18fad696f0c34fbe11f993a$ -->
+<TextureAtlas imagePath="TLightWater.png">
+    <SubTexture name="water01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="water02" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="water03" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="water04" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="water05" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="water06" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="water07" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="water08" x="38" y="2" width="16" height="16"/>
+</TextureAtlas>

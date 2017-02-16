@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:944fd7c5fd63237844df0517fcdda8d2:24f7479455a054d0833e78c26288eeab:6db357ffedaf8663a95047925f509e77$ -->
+<TextureAtlas imagePath="TWoodDoor.png">
+    <SubTexture name="tile1" x="2" y="2" width="16" height="20"/>
+    <SubTexture name="tile2" x="20" y="2" width="16" height="20"/>
+    <SubTexture name="tile3" x="38" y="2" width="16" height="20"/>
+    <SubTexture name="tile4" x="56" y="2" width="16" height="20"/>
+</TextureAtlas>

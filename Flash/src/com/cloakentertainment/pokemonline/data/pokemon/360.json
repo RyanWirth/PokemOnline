@@ -1,0 +1,50 @@
+{
+"pokemon":{
+        "ID":360,
+        "Name":"Wynaut",
+        "Type":["Psychic"],
+        "CatchRate":125,
+        "GenderRatio":50,
+		"Abilities":["Shadow Tag", "Telepathy"],
+        "EggGroups":["Undiscovered"],
+        "HatchTime":[5355,5609],
+        "Height":["2'00\"", "0.6 m"],
+        "Weight":["30.9 lbs", "14.0 kg"],
+        "RegionalPokedexNumbers":[160],
+        "BaseExperienceYield":44,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Bright Pokémon",
+        "EVYield":{
+            "HP":1,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":6,
+        "FootprintStyle":360,
+        "PokedexColor":"Blue",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":15, "into":"Wobbuffet"}],
+        "PokedexEntry":"A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":95,
+            "ATK":23,
+            "DEF":48,
+            "SPATK":23,
+            "SPDEF":48,
+            "SPEED":23
+        },
+		"LearnSet":[
+			{"level":0, "move":"Splash"},
+			{"level":0, "move":"Charm"},
+			{"level":0, "move":"Encore"},
+			{"level":15, "move":"Counter"},
+			{"level":15, "move":"Mirror Coat"},
+			{"level":15, "move":"Safeguard"},
+			{"level":15, "move":"Destiny Bond"}
+		]
+}
+}

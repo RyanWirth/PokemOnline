@@ -1,0 +1,44 @@
+{
+"pokemon":{
+        "ID":201,
+        "Name":"Unown",
+        "Type":["Psychic"],
+        "CatchRate":0,
+        "GenderRatio":0,
+		"Abilities":["Levitate"],
+        "EggGroups":["Undiscovered"],
+        "HatchTime":[10455,10709],
+        "Height":["1'08\"", "0.5 m"],
+        "Weight":["11.0 lbs", "5.0 kg"],
+        "RegionalPokedexNumbers":[346],
+        "BaseExperienceYield":61,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Symbol Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":1,
+            "DEF":0,
+            "SPATK":1,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":1,
+        "FootprintStyle":201,
+        "PokedexColor":"Black",
+        "BaseFriendship":70,
+        "Evolutions": [],
+        "PokedexEntry":"This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":48,
+            "ATK":72,
+            "DEF":48,
+            "SPATK":72,
+            "SPDEF":48,
+            "SPEED":48
+        },
+		"LearnSet":[
+			{"level":0, "move":"Hidden Power"}
+		]
+}
+}

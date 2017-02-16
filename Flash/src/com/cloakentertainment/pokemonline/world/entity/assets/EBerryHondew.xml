@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a3865a1f7fb9983eecff354b1495724b:229287d885a7884ffb5813dfc06dbdb7:512f7a9506382bfe8c22cff9aa060076$ -->
+<TextureAtlas imagePath="EBerryHondew.png">
+    <SubTexture name="hondew-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="hondew-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="hondew-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="hondew-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="hondew-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

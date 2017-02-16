@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3b1b631c660598a85d185e65285e8ec9:88711c34474d583333278e527192f3ee:3f16302f828ea1f213f6006392742481$ -->
+<TextureAtlas imagePath="SPokemonCenterMachineBall.png">
+    <SubTexture name="tile01" x="2" y="2" width="6" height="6"/>
+    <SubTexture name="tile02" x="10" y="2" width="6" height="6"/>
+    <SubTexture name="tile03" x="18" y="2" width="6" height="6"/>
+    <SubTexture name="tile04" x="26" y="2" width="6" height="6"/>
+    <SubTexture name="tile05" x="34" y="2" width="6" height="6"/>
+</TextureAtlas>

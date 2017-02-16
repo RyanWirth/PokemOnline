@@ -1,0 +1,45 @@
+{
+"pokemon":{
+        "ID":10,
+        "Name":"Caterpie",
+        "Type":["Bug"],
+        "CatchRate":255,
+        "GenderRatio":50,
+		"Abilities":["Shield Dust", "Run Away"],
+        "EggGroups":["Bug"],
+        "HatchTime":[2805,3059],
+        "Height":["1'00\"", "0.3 m"],
+        "Weight":["6.4 lbs", "2.9 kg"],
+        "RegionalPokedexNumbers":[212],
+        "BaseExperienceYield":53,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Worm Pokémon",
+        "EVYield":{
+            "HP":1,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":14,
+        "FootprintStyle":10,
+        "PokedexColor":"Green",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":7, "into":"Metapod"}],
+        "PokedexEntry":"Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":45,
+            "ATK":30,
+            "DEF":35,
+            "SPATK":20,
+            "SPDEF":20,
+            "SPEED":45
+        },
+		"LearnSet":[
+			{"level":0, "move":"Tackle"},
+			{"level":0, "move":"String Shot"}
+		]
+}
+}

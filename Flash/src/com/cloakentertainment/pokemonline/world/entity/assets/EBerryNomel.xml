@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:826279efdc07b28a57062b46e973646a:a4534e224a6381bd90d4ac7460939497:4d3b0ee62b0b81af5c156ff372080be3$ -->
+<TextureAtlas imagePath="EBerryNomel.png">
+    <SubTexture name="nomel-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="nomel-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="nomel-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="nomel-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="nomel-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

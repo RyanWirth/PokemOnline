@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:271c0bde73b4d455378e50ef0ffff0e7:e6e502db2af841e418658f4d0a1af37e:83c5713182cfdcade3180f7a73433ccd$ -->
+<TextureAtlas imagePath="EBerryLeppa.png">
+    <SubTexture name="leppa-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="leppa-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="leppa-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="leppa-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="leppa-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

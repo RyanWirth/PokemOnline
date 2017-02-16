@@ -1,0 +1,47 @@
+{
+"pokemon":{
+        "ID":202,
+        "Name":"Wobbuffet",
+        "Type":["Psychic"],
+        "CatchRate":45,
+        "GenderRatio":50,
+		"Abilities":["Shadow Tag", "Telepathy"],
+        "EggGroups":["Amorphous"],
+        "HatchTime":[5355,5609],
+        "Height":["4'03\"", "1.3 m"],
+        "Weight":["62.8 lbs", "28.5 kg"],
+        "RegionalPokedexNumbers":[161],
+        "BaseExperienceYield":177,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Patient Pokémon",
+        "EVYield":{
+            "HP":2,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":5,
+        "FootprintStyle":202,
+        "PokedexColor":"Blue",
+        "BaseFriendship":70,
+        "Evolutions": [],
+        "PokedexEntry":"Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":190,
+            "ATK":33,
+            "DEF":58,
+            "SPATK":33,
+            "SPDEF":58,
+            "SPEED":33
+        },
+		"LearnSet":[
+			{"level":0, "move":"Counter"},
+			{"level":0, "move":"Mirror Coat"},
+			{"level":0, "move":"Safeguard"},
+			{"level":0, "move":"Destiny Bond"}
+		]
+}
+}

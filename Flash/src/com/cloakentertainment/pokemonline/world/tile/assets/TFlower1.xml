@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d456723abad8d160f6360646751d0f1a:eeb52811a0d0fd03e6403e290cb0e8f7:12d924dc9dee2e0711079cfcd576d232$ -->
+<TextureAtlas imagePath="TFlower1.png">
+    <SubTexture name="tile1" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile2" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="tile3" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile4" x="38" y="2" width="16" height="16"/>
+</TextureAtlas>

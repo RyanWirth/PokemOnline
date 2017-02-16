@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project version="2">
+  <!-- Output SWF options -->
+  <output>
+    <movie outputType="Application" />
+    <movie input="" />
+    <movie path="bin\PokemOnline.swf" />
+    <movie fps="60" />
+    <movie width="960" />
+    <movie height="480" />
+    <movie version="18" />
+    <movie minorVersion="0" />
+    <movie platform="Flash Player" />
+    <movie background="#000000" />
+  </output>
+  <!-- Other classes to be compiled into your SWF -->
+  <classpaths>
+    <class path="src" />
+  </classpaths>
+  <!-- Build options -->
+  <build>
+    <option accessible="False" />
+    <option advancedTelemetry="False" />
+    <option allowSourcePathOverlap="False" />
+    <option benchmark="True" />
+    <option es="False" />
+    <option inline="False" />
+    <option locale="en_US" />
+    <option loadConfig="" />
+    <option optimize="True" />
+    <option omitTraces="True" />
+    <option showActionScriptWarnings="True" />
+    <option showBindingWarnings="True" />
+    <option showInvalidCSS="True" />
+    <option showDeprecationWarnings="True" />
+    <option showUnusedTypeSelectorWarnings="True" />
+    <option strict="True" />
+    <option useNetwork="True" />
+    <option useResourceBundleMetadata="True" />
+    <option warnings="True" />
+    <option verboseStackTraces="False" />
+    <option linkReport="" />
+    <option loadExterns="" />
+    <option staticLinkRSL="True" />
+    <option additional="-frame main com.cloakentertainment.pokemonline.Main" />
+    <option compilerConstants="CONFIG::buildtype,&quot;a&quot;&#xA;CONFIG::buildlabel,&quot;Private Alpha&quot;" />
+    <option minorVersion="" />
+  </build>
+  <!-- SWC Include Libraries -->
+  <includeLibraries>
+    <!-- example: <element path="..." /> -->
+  </includeLibraries>
+  <!-- SWC Libraries -->
+  <libraryPaths>
+    <element path="src\PlayerIOClient.swc" />
+  </libraryPaths>
+  <!-- External Libraries -->
+  <externalLibraryPaths>
+    <!-- example: <element path="..." /> -->
+  </externalLibraryPaths>
+  <!-- Runtime Shared Libraries -->
+  <rslPaths>
+    <!-- example: <element path="..." /> -->
+  </rslPaths>
+  <!-- Intrinsic Libraries -->
+  <intrinsics>
+    <!-- example: <element path="..." /> -->
+  </intrinsics>
+  <!-- Assets to embed into the output SWF -->
+  <library>
+    <!-- example: <asset path="..." id="..." update="..." glyphs="..." mode="..." place="..." sharepoint="..." /> -->
+  </library>
+  <!-- Class files to compile (other referenced classes will automatically be included) -->
+  <compileTargets>
+    <compile path="src\com\cloakentertainment\pokemonline\Preloader.as" />
+  </compileTargets>
+  <!-- Paths to exclude from the Project Explorer tree -->
+  <hiddenPaths>
+    <hidden path="obj" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSprite.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSpriteNonShiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSpriteShiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSpriteShinyUnown.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSpriteTemplate.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonBackSpriteUnown.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSprite.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteCastform.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteCastformShiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen1.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen1Shiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen2.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen2Shiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen3.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteGen3Shiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteSpinda.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteSpindaShiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteTemplate.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteUnknown.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteUnown.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokemonSpriteUnownShiny.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexInfoMenu.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenu.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenuArrow.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenuPokeball.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenuPokemonText.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenuSearchOptions.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexMenuSideArrow.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenu.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenuButton.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenuOKButton.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenuOption.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenuOptionDouble.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\ui\UIPokedexSearchMenuOptionSelection.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAquaAdminFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAquaAdminMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAquaGruntFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAquaGruntMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAquaLeaderMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EArenaTycoonFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EAromaLadyFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBattleGirlFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBroMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBugManiacMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EDomeAceMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EDragonTamerMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EExpertFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EExpertMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EFactoryHeadMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EHeroFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EHeroMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EHexManiacFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EInterviewerFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EInterviewerMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EKindlerMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ELadyFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ELassFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EMagmaAdminFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EMagmaAdminMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EMagmaGruntFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EMagmaGruntMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ENinjaBoyMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EOldCoupleFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EOldCoupleMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPalaceMavenMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EParasolLadyFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPikeQueenFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPokemonBreederFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPokemonBreederMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPokemonRangerFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPokemonRangerMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EProfessorBirchMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EPyramidKingMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ERichBoy1Male.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ERichBoy2Male.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ERuinManiacMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ESalonMavenFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ESisFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETeammatesFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteBikeFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteBikeMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteRunFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteRunMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteSwimFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETriathleteSwimMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETuberFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ETuberMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EWinstrateVickiFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EWinstrateVictoriaFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EWinstrateVictorMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EWinstrateVitoMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EWinstrateViviFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EYoungCoupleFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EYoungCoupleMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ELittleGirlFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ELabAideMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\ERoundManMale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EItem.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EHatKid1Male.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EMotherFemale.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EVigoroth2.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EVigoroth1.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EZigzagoon.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryAguav.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryAspear.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryBelue.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryBluk.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryCheri.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryChesto.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryCornn.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryDurin.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryFigy.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryGrepa.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryHondew.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryIapapa.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryKelpsy.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryLeppa.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryLum.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryMago.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryMagost.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryNanab.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryNomel.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryOran.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryPamtre.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryPecha.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryPersim.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryPinap.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryPomeg.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryQualot.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryRabuta.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryRawst.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryRazz.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerrySitrus.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerrySpelon.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryTamato.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryWatmel.as" />
+    <hidden path="src\com\cloakentertainment\pokemonline\world\entity\EBerryWepear.as" />
+  </hiddenPaths>
+  <!-- Executed before build -->
+  <preBuildCommand />
+  <!-- Executed after build -->
+  <postBuildCommand alwaysRun="False" />
+  <!-- Other project options -->
+  <options>
+    <option showHiddenPaths="False" />
+    <option testMovie="Default" />
+    <option testMovieCommand="dist\windows\PokemOnline.exe" />
+  </options>
+  <!-- Plugin storage -->
+  <storage>
+    <entry key="at_enabled"><![CDATA[0]]></entry>
+    <entry key="at_password"><![CDATA[]]></entry>
+  </storage>
+</project>

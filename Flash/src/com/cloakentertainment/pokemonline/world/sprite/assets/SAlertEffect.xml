@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:efe7c2c7b9ae771e9e0a52d97b874bf0:88a37e4de346ba761236477293bbef5e:c633bb4160b59371b14b8fd44c6a4f86$ -->
+<TextureAtlas imagePath="SAlertEffect.png">
+    <SubTexture name="sprite" x="2" y="2" width="14" height="14"/>
+</TextureAtlas>

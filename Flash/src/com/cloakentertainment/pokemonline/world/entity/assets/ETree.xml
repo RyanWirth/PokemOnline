@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6635d8d9b6360688102311552d1ce9cd:18576a3e4693f79130f06c732c964533:862787064644fd86d62ddc062b1ad355$ -->
+<TextureAtlas imagePath="ETree.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="16" height="16"/>
+</TextureAtlas>

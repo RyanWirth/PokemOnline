@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1f9810b118232928e136f51b4b7c5932:2b4de820d45d1d61c8af8dc6d5e8ef75:05f4658d1002b88c24c74c068427a5f5$ -->
+<TextureAtlas imagePath="EBerryWatmel.png">
+    <SubTexture name="watmel-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="watmel-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="watmel-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="watmel-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="watmel-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

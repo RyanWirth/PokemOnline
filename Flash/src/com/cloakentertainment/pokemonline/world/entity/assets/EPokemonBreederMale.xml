@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:171df960bf0e77b1356288e8b58f1953:4807e007b91f0ddd945e6aa7e1582a6d:8218700b3c7350940df734ca1bc386e5$ -->
+<TextureAtlas imagePath="EPokemonBreederMale.png">
+    <SubTexture name="walk_down01" x="2" y="2" width="16" height="20"/>
+    <SubTexture name="walk_down02" x="20" y="2" width="16" height="20"/>
+    <SubTexture name="walk_down03" x="2" y="2" width="16" height="20"/>
+    <SubTexture name="walk_down04" x="38" y="2" width="16" height="20"/>
+    <SubTexture name="walk_left01" x="110" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left02" x="125" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left03" x="110" y="2" width="13" height="20"/>
+    <SubTexture name="walk_left04" x="140" y="2" width="13" height="20"/>
+    <SubTexture name="walk_up01" x="56" y="2" width="16" height="20"/>
+    <SubTexture name="walk_up02" x="74" y="2" width="16" height="20"/>
+    <SubTexture name="walk_up03" x="56" y="2" width="16" height="20"/>
+    <SubTexture name="walk_up04" x="92" y="2" width="16" height="20"/>
+</TextureAtlas>

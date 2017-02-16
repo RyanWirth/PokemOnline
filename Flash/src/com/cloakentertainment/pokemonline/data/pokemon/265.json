@@ -1,0 +1,47 @@
+{
+"pokemon":{
+        "ID":265,
+        "Name":"Wurmple",
+        "Type":["Bug"],
+        "CatchRate":255,
+        "GenderRatio":50,
+		"Abilities":["Shield Dust", "Run Away"],
+        "EggGroups":["Bug"],
+        "HatchTime":[4080,4334],
+        "Height":["1'00\"", "0.3 m"],
+        "Weight":["7.9 lbs", "3.6 kg"],
+        "RegionalPokedexNumbers":[14],
+        "BaseExperienceYield":54,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Worm Pokémon",
+        "EVYield":{
+            "HP":1,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":14,
+        "FootprintStyle":265,
+        "PokedexColor":"Red",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":7, "and":"random", "into":"Silcoon"},
+                       {"type":"level", "at":7, "and":"random", "into":"Cascoon"}],
+        "PokedexEntry":"It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":45,
+            "ATK":45,
+            "DEF":35,
+            "SPATK":20,
+            "SPDEF":30,
+            "SPEED":20
+        },
+		"LearnSet":[
+			{"level":0, "move":"Tackle"},
+			{"level":0, "move":"String Shot"},
+			{"level":5, "move":"Poison Sting"}
+		]
+}
+}

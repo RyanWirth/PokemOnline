@@ -1,0 +1,45 @@
+{
+"pokemon":{
+        "ID":266,
+        "Name":"Silcoon",
+        "Type":["Bug"],
+        "CatchRate":120,
+        "GenderRatio":50,
+		"Abilities":["Shed Skin"],
+        "EggGroups":["Bug"],
+        "HatchTime":[4080,4334],
+        "Height":["2'00\"", "0.6 m"],
+        "Weight":["22.0 lbs", "10.0 kg"],
+        "RegionalPokedexNumbers":[15],
+        "BaseExperienceYield":0,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Cocoon Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":2,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":1,
+        "FootprintStyle":266,
+        "PokedexColor":"White",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":10, "into":"Beautifly"}],
+        "PokedexEntry":"It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":50,
+            "ATK":35,
+            "DEF":55,
+            "SPATK":25,
+            "SPDEF":25,
+            "SPEED":15
+        },
+		"LearnSet":[
+			{"level":0, "move":"Harden"},
+			{"level":7, "move":"Harden"}
+		]
+}
+}

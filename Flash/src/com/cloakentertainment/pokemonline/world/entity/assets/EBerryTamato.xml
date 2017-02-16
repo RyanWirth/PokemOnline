@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:70c1de9a49557e62ad4078a5ddc30a47:64dbac6feb38969deaf72bb3b9a3d3b5:33bd801a12d9b243bb1aca23aab24a6d$ -->
+<TextureAtlas imagePath="EBerryTamato.png">
+    <SubTexture name="tamato-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="tamato-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="tamato-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="tamato-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="tamato-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

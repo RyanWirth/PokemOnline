@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c6565593c60d1fc674a138c1719cb560:a98398e2113ea811acb87b8cbec9e8c4:563928315ef1da8a2c5f2a41c063556b$ -->
+<TextureAtlas imagePath="SHalfGrassEffect.png">
+    <SubTexture name="tile1" x="2" y="2" width="16" height="16"/>
+</TextureAtlas>

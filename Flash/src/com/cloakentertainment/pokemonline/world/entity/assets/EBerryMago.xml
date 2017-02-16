@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3d7a0206ec42703e5e8111a084b0c223:93af799ee820a9f439531cd76ac09bb1:38de509b3086ed2add701fa793402d55$ -->
+<TextureAtlas imagePath="EBerryMago.png">
+    <SubTexture name="mago-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="mago-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="mago-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="mago-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="mago-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

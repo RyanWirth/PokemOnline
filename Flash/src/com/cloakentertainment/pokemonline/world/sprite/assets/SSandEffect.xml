@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d5c3f5b70149384cca44cbd98d26c440:fd1ca2327c84fb173da3f0a7dab87907:b3d50c3501bc64b145696c951917bd26$ -->
+<TextureAtlas imagePath="SSandEffect.png">
+    <SubTexture name="tile01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile02" x="20" y="2" width="16" height="16"/>
+    <SubTexture name="tile03" x="38" y="2" width="16" height="16"/>
+    <SubTexture name="tile04" x="56" y="2" width="16" height="16"/>
+</TextureAtlas>

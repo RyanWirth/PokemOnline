@@ -1,0 +1,45 @@
+{
+"pokemon":{
+        "ID":13,
+        "Name":"Weedle",
+        "Type":["Bug", "Poison"],
+        "CatchRate":255,
+        "GenderRatio":50,
+		"Abilities":["Shield Dust", "Run Away"],
+        "EggGroups":["Bug"],
+        "HatchTime":[2805,3059],
+        "Height":["1'00\"", "0.3 m"],
+        "Weight":["7.1 lbs", "3.2 kg"],
+        "RegionalPokedexNumbers":[215],
+        "BaseExperienceYield":52,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Hairy Bug Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":1
+        },
+        "BodyStyle":14,
+        "FootprintStyle":13,
+        "PokedexColor":"Brown",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":7, "into":"Kakuna"}],
+        "PokedexEntry":"A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":40,
+            "ATK":35,
+            "DEF":30,
+            "SPATK":20,
+            "SPDEF":20,
+            "SPEED":50
+        },
+		"LearnSet":[
+			{"level":0, "move":"Poison Sting", "stab":1},
+			{"level":0, "move":"String Shot"}
+		]
+}
+}

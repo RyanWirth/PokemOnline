@@ -1,0 +1,53 @@
+{
+"pokemon":{
+        "ID":235,
+        "Name":"Smeargle",
+        "Type":["Normal"],
+        "CatchRate":45,
+        "GenderRatio":50,
+		"Abilities":["Own Tempo", "Moody"],
+        "EggGroups":["Field"],
+        "HatchTime":[5355,5609],
+        "Height":["3'11\"", "1.2 m"],
+        "Weight":["127.9 lbs", "58.0 kg"],
+        "RegionalPokedexNumbers":[370],
+        "BaseExperienceYield":106,
+        "LevelingRate":"Fast",
+        "PokedexType":"Painter Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":1
+        },
+        "BodyStyle":6,
+        "FootprintStyle":235,
+        "PokedexColor":"White",
+        "BaseFriendship":70,
+        "Evolutions": [],
+        "PokedexEntry":"A Smeargle marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this Pokémon have been found.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":55,
+            "ATK":20,
+            "DEF":35,
+            "SPATK":20,
+            "SPDEF":45,
+            "SPEED":75
+        },
+		"LearnSet":[
+			{"level":0, "move":"Sketch"},
+			{"level":11, "move":"Sketch"},
+			{"level":21, "move":"Sketch"},
+			{"level":31, "move":"Sketch"},
+			{"level":41, "move":"Sketch"},
+			{"level":51, "move":"Sketch"},
+			{"level":61, "move":"Sketch"},
+			{"level":71, "move":"Sketch"},
+			{"level":81, "move":"Sketch"},
+			{"level":91, "move":"Sketch"}
+		]
+}
+}

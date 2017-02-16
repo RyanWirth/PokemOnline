@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:497f058c1827b70f4b233d5276133f81:d173dbb599feccd9b27b51fb93345a1e:d45df9bb093fdf4abd007f76d0eeef5d$ -->
+<TextureAtlas imagePath="EBerryNanab.png">
+    <SubTexture name="nanab-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="nanab-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="nanab-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="nanab-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="nanab-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

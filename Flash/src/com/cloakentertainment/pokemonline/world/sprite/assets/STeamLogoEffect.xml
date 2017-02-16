@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4cb38b58f9c4fdbae8c375d4148e5160:4f48ca8aed892c5591ab48a82732a2ae:d64645ebf5169eb676c9153d90dc02d6$ -->
+<TextureAtlas imagePath="STeamLogoEffect.png">
+    <SubTexture name="aqua" x="2" y="2" width="240" height="160"/>
+    <SubTexture name="magma" x="244" y="2" width="240" height="160"/>
+</TextureAtlas>

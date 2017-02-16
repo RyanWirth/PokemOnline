@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6d308f751aec7e6940ccf9a893545eb4:073077e7a74f07b139e8ff573820da0f:dfbc68208bf53aaaa637c51a7bad6a9d$ -->
+<TextureAtlas imagePath="EBerryGrepa.png">
+    <SubTexture name="grepa-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="grepa-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="grepa-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="grepa-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="grepa-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

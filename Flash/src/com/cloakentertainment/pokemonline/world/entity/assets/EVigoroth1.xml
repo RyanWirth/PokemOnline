@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:35f5cdc4daa93c3c4a1dd86b078a4b76:7984426516faea9d94b328dffdc45d33:75930a932760fb26241da46cc1a3dca1$ -->
+<TextureAtlas imagePath="EVigoroth1.png">
+    <SubTexture name="walk_down01" x="2" y="1" width="26" height="30"/>
+    <SubTexture name="walk_down03" x="2" y="1" width="26" height="30"/>
+    <SubTexture name="walk_down02" x="2" y="33" width="26" height="30"/>
+    <SubTexture name="walk_down04" x="2" y="33" width="26" height="30"/>
+</TextureAtlas>

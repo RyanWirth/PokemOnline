@@ -1,0 +1,1 @@
+walk_down01.png 0 0, walk_down04.png 0 31.

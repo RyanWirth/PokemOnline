@@ -1,0 +1,44 @@
+{
+"pokemon":{
+        "ID":374,
+        "Name":"Beldum",
+        "Type":["Steel", "Psychic"],
+        "CatchRate":0,
+        "GenderRatio":0,
+		"Abilities":["Clear Body", "Light Metal"],
+        "EggGroups":["Mineral"],
+        "HatchTime":[10455,10709],
+        "Height":["2'00\"", "0.6 m"],
+        "Weight":["209.9 lbs", "95.2 kg"],
+        "RegionalPokedexNumbers":[190],
+        "BaseExperienceYield":103,
+        "LevelingRate":"Slow",
+        "PokedexType":"Iron Ball Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":1,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":5,
+        "FootprintStyle":374,
+        "PokedexColor":"Blue",
+        "BaseFriendship":35,
+        "Evolutions": [{"type":"level", "at":20, "into":"Metang"}],
+        "PokedexEntry":"When Beldum gather in a swarm, they move in perfect unison as if they were but one Pokémon. They communicate with each other using brain waves.",
+		"HeldItems":[{"name":"Metal Coat", "chance":5}],
+        "BaseStats":{
+            "HP":40,
+            "ATK":55,
+            "DEF":80,
+            "SPATK":35,
+            "SPDEF":60,
+            "SPEED":30
+        },
+		"LearnSet":[
+			{"level":0, "move":"Take Down"}
+		]
+}
+}

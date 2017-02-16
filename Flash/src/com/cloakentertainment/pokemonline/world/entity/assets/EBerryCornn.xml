@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b2d4ea16849873c5c097c0940719ad52:ca2c05f701be9a762f905e2ec5e0db4c:e21dce7c4129ef1d3025c51ccf9604e4$ -->
+<TextureAtlas imagePath="EBerryCornn.png">
+    <SubTexture name="cornn-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="cornn-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="cornn-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="cornn-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="cornn-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

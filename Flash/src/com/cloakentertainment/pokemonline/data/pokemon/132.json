@@ -1,0 +1,44 @@
+{
+"pokemon":{
+        "ID":132,
+        "Name":"Ditto",
+        "Type":["Normal"],
+        "CatchRate":0,
+        "GenderRatio":0,
+		"Abilities":["Limber", "Imposter"],
+        "EggGroups":["Ditto"],
+        "HatchTime":[5355,5609],
+        "Height":["1'00\"", "0.3 m"],
+        "Weight":["8.8 lbs", "4.0 kg"],
+        "RegionalPokedexNumbers":[287],
+        "BaseExperienceYield":61,
+        "LevelingRate":"MediumFast",
+        "PokedexType":"Transform Pokémon",
+        "EVYield":{
+            "HP":1,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":0
+        },
+        "BodyStyle":1,
+        "FootprintStyle":132,
+        "PokedexColor":"Purple",
+        "BaseFriendship":70,
+        "Evolutions": [],
+        "PokedexEntry":"A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+		"HeldItems":[{"name":"Metal Powder", "chance":5}],
+        "BaseStats":{
+            "HP":48,
+            "ATK":48,
+            "DEF":48,
+            "SPATK":48,
+            "SPDEF":48,
+            "SPEED":48
+        },
+		"LearnSet":[
+			{"level":0, "move":"Transform"}
+		]
+}
+}

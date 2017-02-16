@@ -1,0 +1,467 @@
+{
+    "Abilities":[
+	{
+        "ID":1,
+        "Name":"Stench",
+		"Description":"Helps repel wild Pokémon.",
+		"Generation":"III"
+    },
+	{
+        "ID":2,
+        "Name":"Drizzle",
+		"Description":"Summons rain in battle.",
+		"Generation":"III"
+    },
+	{
+        "ID":3,
+        "Name":"Speed Boost",
+		"Description":"Gradually boosts SPEED.",
+		"Generation":"III"
+    },
+	{
+        "ID":4,
+        "Name":"Battle Armor",
+		"Description":"Blocks critical hits.",
+		"Generation":"III"
+    },
+	{
+        "ID":5,
+        "Name":"Sturdy",
+		"Description":"Negates 1-hit KO attacks.",
+		"Generation":"III"
+    },
+	{
+        "ID":6,
+        "Name":"Damp",
+		"Description":"Prevents self-destruction.",
+		"Generation":"III"
+    },
+	{
+        "ID":7,
+        "Name":"Limber",
+		"Description":"Prevents paralysis.",
+		"Generation":"III"
+    },
+	{
+        "ID":8,
+        "Name":"Sand Veil",
+		"Description":"Ups evasion in a sandstorm.",
+		"Generation":"III"
+    },
+	{
+        "ID":9,
+        "Name":"Static",
+		"Description":"Paralyzes on contact.",
+		"Generation":"III"
+    },
+	{
+        "ID":10,
+        "Name":"Volt Absorb",
+		"Description":"Turns electricity into HP.",
+		"Generation":"III"
+    },
+	{
+        "ID":11,
+        "Name":"Water Absorb",
+		"Description":"Changes water into HP.",
+		"Generation":"III"
+    },
+	{
+        "ID":12,
+        "Name":"Oblivious",
+		"Description":"Prevents attraction.",
+		"Generation":"III"
+    },
+	{
+        "ID":13,
+        "Name":"Cloud Nine",
+		"Description":"Negates weather effects.",
+		"Generation":"III"
+    },
+	{
+        "ID":14,
+        "Name":"Compound Eyes",
+		"Description":"Raises accuracy.",
+		"Generation":"III"
+    },
+	{
+        "ID":15,
+        "Name":"Insomnia",
+		"Description":"Prevents sleep.",
+		"Generation":"III"
+    },
+	{
+        "ID":16,
+        "Name":"Color Change",
+		"Description":"Changes type to foe's move.",
+		"Generation":"III"
+    },
+	{
+        "ID":17,
+        "Name":"Immunity",
+		"Description":"Prevents poisoning.",
+		"Generation":"III"
+    },
+	{
+        "ID":18,
+        "Name":"Flash Fire",
+		"Description":"Powers up if hit by fire.",
+		"Generation":"III"
+    },
+	{
+        "ID":19,
+        "Name":"Shield Dust",
+		"Description":"Prevents added effects.",
+		"Generation":"III"
+    },
+	{
+        "ID":20,
+        "Name":"Own Tempo",
+		"Description":"Prevents confusion.",
+		"Generation":"III"
+    },
+	{
+        "ID":21,
+        "Name":"Suction Cups",
+		"Description":"Firmly anchors the body.",
+		"Generation":"III"
+    },
+	{
+        "ID":22,
+        "Name":"Intimidate",
+		"Description":"Lowers the foe's ATTACK.",
+		"Generation":"III"
+    },
+	{
+        "ID":23,
+        "Name":"Shadow Tag",
+		"Description":"Prevents the foe's escape.",
+		"Generation":"III"
+    },
+	{
+        "ID":24,
+        "Name":"Rough Skin",
+		"Description":"Hurts to touch.",
+		"Generation":"III"
+    },
+	{
+        "ID":25,
+        "Name":"Wonder Guard",
+		"Description":"\"Super effective\" hits.",
+		"Generation":"III"
+    },
+	{
+        "ID":26,
+        "Name":"Levitate",
+		"Description":"Not hit by Ground attacks.",
+		"Generation":"III"
+    },
+	{
+        "ID":27,
+        "Name":"Effect Spore",
+		"Description":"Leaves spores on contact.",
+		"Generation":"III"
+    },
+	{
+        "ID":28,
+        "Name":"Synchronize",
+		"Description":"Passes on status problems.",
+		"Generation":"III"
+    },
+	{
+        "ID":29,
+        "Name":"Clear Body",
+		"Description":"Prevents ability reduction.",
+		"Generation":"III"
+    },
+	{
+        "ID":30,
+        "Name":"Natural Cure",
+		"Description":"Heals upon switching out.",
+		"Generation":"III"
+    },
+	{
+        "ID":31,
+        "Name":"Lightning Rod",
+		"Description":"Draws electrical moves.",
+		"Generation":"III"
+    },
+	{
+        "ID":32,
+        "Name":"Serene Grace",
+		"Description":"Promotes added effects.",
+		"Generation":"III"
+    },
+	{
+        "ID":33,
+        "Name":"Swift Swim",
+		"Description":"Raises SPEED in rain.",
+		"Generation":"III"
+    },
+	{
+        "ID":34,
+        "Name":"Chlorophyll",
+		"Description":"Raise SPEED in sunshine.",
+		"Generation":"III"
+    },
+	{
+        "ID":35,
+        "Name":"Illuminate",
+		"Description":"Encounter rate increases.",
+		"Generation":"III"
+    },
+	{
+        "ID":36,
+        "Name":"Trace",
+		"Description":"Copies special ability.",
+		"Generation":"III"
+    },
+	{
+        "ID":37,
+        "Name":"Huge Power",
+		"Description":"Raises ATTACK.",
+		"Generation":"III"
+    },
+	{
+        "ID":38,
+        "Name":"Poison Point",
+		"Description":"Poisons foe on contact.",
+		"Generation":"III"
+    },
+	{
+        "ID":39,
+        "Name":"Inner Focus",
+		"Description":"Prevents flinching.",
+		"Generation":"III"
+    },
+	{
+        "ID":40,
+        "Name":"Magma Armor",
+		"Description":"Prevents freezing.",
+		"Generation":"III"
+    },
+	{
+        "ID":41,
+        "Name":"Water Veil",
+		"Description":"Prevents burns.",
+		"Generation":"III"
+    },
+	{
+        "ID":42,
+        "Name":"Magnet Pull",
+		"Description":"Traps STEEL-type Pokémon.",
+		"Generation":"III"
+    },
+	{
+        "ID":43,
+        "Name":"Soundproof",
+		"Description":"Avoids sound-based moves.",
+		"Generation":"III"
+    },
+	{
+        "ID":44,
+        "Name":"Rain Dish",
+		"Description":"Slight HP recovery in rain.",
+		"Generation":"III"
+    },
+	{
+        "ID":45,
+        "Name":"Sand Stream",
+		"Description":"Summons a sandstorm.",
+		"Generation":"III"
+    },
+	{
+        "ID":46,
+        "Name":"Pressure",
+		"Description":"Raises foe's PP usage.",
+		"Generation":"III"
+    },
+	{
+        "ID":47,
+        "Name":"Thick Fat",
+		"Description":"Heat-and-cold protection.",
+		"Generation":"III"
+    },
+	{
+        "ID":48,
+        "Name":"Early Bird",
+		"Description":"Awakens quickly from sleep.",
+		"Generation":"III"
+    },
+	{
+        "ID":49,
+        "Name":"Flame Body",
+		"Description":"Burns the foe on contact.",
+		"Generation":"III"
+    },
+	{
+        "ID":50,
+        "Name":"Run Away",
+		"Description":"Makes escaping easier.",
+		"Generation":"III"
+    },
+	{
+        "ID":51,
+        "Name":"Keen Eye",
+		"Description":"Prevents loss of accuracy.",
+		"Generation":"III"
+    },
+	{
+        "ID":52,
+        "Name":"Hyper Cutter",
+		"Description":"Prevents ATTACK reduction.",
+		"Generation":"III"
+    },
+	{
+        "ID":53,
+        "Name":"Pickup",
+		"Description":"May pick up items.",
+		"Generation":"III"
+    },
+	{
+        "ID":54,
+        "Name":"Truant",
+		"Description":"Moves only every two turns.",
+		"Generation":"III"
+    },
+	{
+        "ID":55,
+        "Name":"Hustle",
+		"Description":"Trades accuracy for power.",
+		"Generation":"III"
+    },
+	{
+        "ID":56,
+        "Name":"Cute Charm",
+		"Description":"Infatuates on contact.",
+		"Generation":"III"
+    },
+	{
+        "ID":57,
+        "Name":"Plus",
+		"Description":"Powers up with MINUS.",
+		"Generation":"III"
+    },
+	{
+        "ID":58,
+        "Name":"Minus",
+		"Description":"Powers up with PLUS.",
+		"Generation":"III"
+    },
+	{
+        "ID":59,
+        "Name":"Forecast",
+		"Description":"Changes with the weather.",
+		"Generation":"III"
+    },
+	{
+        "ID":60,
+        "Name":"Sticky Hold",
+		"Description":"Prevents item theft.",
+		"Generation":"III"
+    },
+	{
+        "ID":61,
+        "Name":"Shed Skin",
+		"Description":"Heals the body by shedding.",
+		"Generation":"III"
+    },
+	{
+        "ID":62,
+        "Name":"Guts",
+		"Description":"Ups ATTACK if suffering.",
+		"Generation":"III"
+    },
+	{
+        "ID":63,
+        "Name":"Marvel Scale",
+		"Description":"Ups DEFENSE if suffering.",
+		"Generation":"III"
+    },
+	{
+        "ID":64,
+        "Name":"Liquid Ooze",
+		"Description":"Draining causes injury.",
+		"Generation":"III"
+    },
+	{
+        "ID":65,
+        "Name":"Overgrow",
+		"Description":"Ups GRASS moves in a pinch.",
+		"Generation":"III"
+    },
+	{
+        "ID":66,
+        "Name":"Blaze",
+		"Description":"Ups FIRE moves in a pinch.",
+		"Generation":"III"
+    },
+	{
+        "ID":67,
+        "Name":"Torrent",
+		"Description":"Ups WATER moves in a pinch.",
+		"Generation":"III"
+    },
+	{
+        "ID":68,
+        "Name":"Swarm",
+		"Description":"Ups BUG moves in a pinch.",
+		"Generation":"III"
+    },
+	{
+        "ID":69,
+        "Name":"Rock Head",
+		"Description":"Prevents recoil damage.",
+		"Generation":"III"
+    },
+	{
+        "ID":70,
+        "Name":"Drought",
+		"Description":"Summons sunlight in battle.",
+		"Generation":"III"
+    },
+	{
+        "ID":71,
+        "Name":"Arena Trap",
+		"Description":"Prevents fleeing.",
+		"Generation":"III"
+    },
+	{
+        "ID":72,
+        "Name":"Vital Spirit",
+		"Description":"Prevents sleep.",
+		"Generation":"III"
+    },
+	{
+        "ID":73,
+        "Name":"White Smoke",
+		"Description":"Prevents ability reduction.",
+		"Generation":"III"
+    },
+	{
+        "ID":74,
+        "Name":"Pure Power",
+		"Description":"Raises ATTACK.",
+		"Generation":"III"
+    },
+	{
+        "ID":75,
+        "Name":"Shell Armor",
+		"Description":"Blocks critical hits.",
+		"Generation":"III"
+    },
+    {
+        "ID":76,
+        "Name":"Cacophony",
+		"Description":"Avoids sound-based moves.",
+		"Generation":"III"
+    },
+    {
+        "ID":77,
+        "Name":"Air Lock",
+		"Description":"Negates weather effects.",
+		"Generation":"III"
+    }
+ 
+    ]
+}

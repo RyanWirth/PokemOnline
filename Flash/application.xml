@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/18.0">
+	
+	<id>PokemOnline</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>PokemOnline</filename> 
+	
+	<name>PokeomOnline</name> 
+	<description></description> 
+	<copyright></copyright> 
+	
+	<initialWindow> 
+		<title>PokemOnline</title> 
+		<content>bin/PokemOnline.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>true</visible> 
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable>true</resizable> 
+        <renderMode>direct</renderMode>
+	</initialWindow> 
+  <icon>
+    <image32x32>icons/PokemOnline32.png</image32x32>
+  </icon>
+	
+	<!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>

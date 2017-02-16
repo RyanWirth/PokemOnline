@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9b68278b6fba1912994fb5d60a160dfc:ad62dff57e96fb169f587e36d2ace8b4:6d14ec17217ff72ece17a3f71fae4a2e$ -->
+<TextureAtlas imagePath="EBerryAspear.png">
+    <SubTexture name="aspear-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="aspear-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="aspear-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="aspear-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="aspear-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

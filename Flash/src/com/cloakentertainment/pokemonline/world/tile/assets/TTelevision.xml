@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:837cc45211aa69dd522550cf8ff7bac0:7f7a52ce665c5f50d38775487a4492cc:28128eaf78c1985ce31ee52781253c98$ -->
+<TextureAtlas imagePath="TTelevision.png">
+    <SubTexture name="tile01" x="2" y="2" width="16" height="16"/>
+    <SubTexture name="tile02" x="20" y="2" width="16" height="16"/>
+</TextureAtlas>

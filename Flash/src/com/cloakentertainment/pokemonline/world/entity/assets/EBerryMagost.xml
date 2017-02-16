@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9c38c527eee5aa8a6b5a1035ec807b65:6bb15deb53b30ecbe0570b42597038ab:171965be2658b754c5ba4dbcb39655f9$ -->
+<TextureAtlas imagePath="EBerryMagost.png">
+    <SubTexture name="magost-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="magost-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="magost-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="magost-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="magost-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

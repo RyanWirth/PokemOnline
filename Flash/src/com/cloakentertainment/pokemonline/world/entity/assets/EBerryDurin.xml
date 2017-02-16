@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7ad46d780fb2fad484d8ff5a40e51daf:650b53468df535ccecf05de3571281bd:c861e7f17fa9e3536d2f3d6182860671$ -->
+<TextureAtlas imagePath="EBerryDurin.png">
+    <SubTexture name="durin-berry-1" x="2" y="2" width="22" height="32"/>
+    <SubTexture name="durin-berry-2" x="2" y="36" width="22" height="32"/>
+    <SubTexture name="durin-berry-3" x="2" y="70" width="22" height="32"/>
+    <SubTexture name="durin-berry-4" x="2" y="104" width="22" height="32"/>
+    <SubTexture name="durin-berry-5" x="2" y="138" width="22" height="32"/>
+</TextureAtlas>

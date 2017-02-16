@@ -1,0 +1,46 @@
+{
+"pokemon":{
+        "ID":129,
+        "Name":"Magikarp",
+        "Type":["Water"],
+        "CatchRate":255,
+        "GenderRatio":50,
+		"Abilities":["Swift Swim", "Rattled"],
+        "EggGroups":["Water 2", "Dragon"],
+        "HatchTime":[1530,1784],
+        "Height":["2'11\"", "0.9 m"],
+        "Weight":["22.0 lbs", "10.0 kg"],
+        "RegionalPokedexNumbers":[52],
+        "BaseExperienceYield":20,
+        "LevelingRate":"Slow",
+        "PokedexType":"Fish Pokémon",
+        "EVYield":{
+            "HP":0,
+            "ATK":0,
+            "DEF":0,
+            "SPATK":0,
+            "SPDEF":0,
+            "SPEED":1
+        },
+        "BodyStyle":3,
+        "FootprintStyle":129,
+        "PokedexColor":"Red",
+        "BaseFriendship":70,
+        "Evolutions": [{"type":"level", "at":20, "into":"Gyarados"}],
+        "PokedexEntry":"Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
+		"HeldItems":[],
+        "BaseStats":{
+            "HP":20,
+            "ATK":10,
+            "DEF":55,
+            "SPATK":15,
+            "SPDEF":20,
+            "SPEED":80
+        },
+		"LearnSet":[
+			{"level":0, "move":"Splash"},
+			{"level":15, "move":"Tackle"},
+			{"level":30, "move":"Flail"}
+		]
+}
+}

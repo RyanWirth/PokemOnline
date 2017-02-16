@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0881f2f63ca12245ec5b0fb141cdb932:3b87ca47bff61e6af282bd8f27cc0a07:891884563ef7b896b3c81cf0d017dbe1$ -->
+<TextureAtlas imagePath="EScottMale.png">
+    <SubTexture name="walk_down01" x="2" y="1" width="14" height="21"/>
+    <SubTexture name="walk_down03" x="2" y="1" width="14" height="21"/>
+    <SubTexture name="walk_down02" x="18" y="2" width="14" height="21"/>
+    <SubTexture name="walk_down04" x="34" y="2" width="14" height="21"/>
+    <SubTexture name="walk_left01" x="50" y="1" width="12" height="21"/>
+    <SubTexture name="walk_left03" x="50" y="1" width="12" height="21"/>
+    <SubTexture name="walk_left02" x="64" y="2" width="12" height="21"/>
+    <SubTexture name="walk_left04" x="78" y="2" width="12" height="21"/>
+    <SubTexture name="walk_up01" x="92" y="1" width="14" height="21"/>
+    <SubTexture name="walk_up03" x="92" y="1" width="14" height="21"/>
+    <SubTexture name="walk_up02" x="108" y="2" width="14" height="21"/>
+    <SubTexture name="walk_up04" x="124" y="2" width="14" height="21"/>
+</TextureAtlas>
